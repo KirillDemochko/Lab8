@@ -1,0 +1,5 @@
+help
+info
+show
+execute_script src\commands.txt
+exit
